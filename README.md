@@ -1,4 +1,4 @@
-# Financial Market Analysis Tool
+# Stocks Comparison Tool
 
 A Python-based tool to automate the comparison of financial assets using historical data. This script normalizes stock prices to a "Base 100" scale, allowing for a direct performance comparison between assets with vastly different price ranges.
 
